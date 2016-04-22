@@ -9,7 +9,7 @@ The methodology was as follows:
 
 While this seemed like a reasonable approach, it was quite clear that the keywords from this approach were dominated by domain-insenstive keywords. For example, almost every job posting at the end has a sentence similar to the following:
 
-"______ is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color national origin, sex, age status as a protected veteran, or status as a qualified individual with disability."
+"FOO is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color national origin, sex, age status as a protected veteran, or status as a qualified individual with disability."
 
 These common keywords like race, religion etc. were dominating the analysis. To remove these, I found the most frequently occuring keywords across all fields (not just data science). I then eliminated these keywords and ranked the remaining data science keywords.
 
